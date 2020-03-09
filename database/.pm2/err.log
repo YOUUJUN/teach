@@ -1,0 +1,272 @@
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}
+Error: Cannot find module 'koa'
+Require stack:
+- F:\teach\app.js
+- F:\teach\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (F:\teach\app.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:70:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'F:\\teach\\app.js', 'F:\\teach\\bin\\www' ]
+}

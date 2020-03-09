@@ -1,0 +1,173 @@
+  <-- GET /favicon.ico
+  <-- GET /
+GET / - 0ms
+  --> GET / 404 8ms -
+  <-- GET /
+GET / - 0ms
+  --> GET / 404 2ms -
+  <-- GET /
+GET / - 0ms
+  --> GET / 404 22ms -
+  <-- GET /
+GET / - 0ms
+  --> GET / 404 4ms -
+  <-- GET /
+GET / - 0ms
+  --> GET / 404 5ms -
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 16ms -
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 19ms -
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 3ms -
+  <-- GET /
+hello
+  --> GET / 200 110ms 869b
+  <-- GET /css/app.07c9b873.css
+GET /css/app.07c9b873.css - 0ms
+  --> GET /css/app.07c9b873.css 404 9ms -
+  <-- GET /js/chunk-vendors.c41e7029.js
+  <-- GET /js/app.11074b80.js
+GET /js/chunk-vendors.c41e7029.js - 0ms
+  --> GET /js/chunk-vendors.c41e7029.js 404 11ms -
+GET /js/app.11074b80.js - 0ms
+  --> GET /js/app.11074b80.js 404 9ms -
+  <-- GET /js/app.11074b80.js
+GET /js/app.11074b80.js - 0ms
+  --> GET /js/app.11074b80.js 404 3ms -
+  <-- GET /js/about.8908c86f.js
+GET /js/about.8908c86f.js - 0ms
+  --> GET /js/about.8908c86f.js 404 3ms -
+  <-- GET /
+hello
+  --> GET / 200 9ms 869b
+  <-- GET /css/app.07c9b873.css
+  <-- GET /js/chunk-vendors.c41e7029.js
+  <-- GET /js/app.11074b80.js
+GET /css/app.07c9b873.css - 0ms
+  --> GET /css/app.07c9b873.css 404 6ms -
+GET /js/app.11074b80.js - 0ms
+  --> GET /js/app.11074b80.js 404 7ms -
+GET /js/chunk-vendors.c41e7029.js - 0ms
+  --> GET /js/chunk-vendors.c41e7029.js 404 11ms -
+  <-- GET /js/app.11074b80.js
+GET /js/app.11074b80.js - 0ms
+  --> GET /js/app.11074b80.js 404 13ms -
+  <-- GET /js/about.8908c86f.js
+GET /js/about.8908c86f.js - 0ms
+  --> GET /js/about.8908c86f.js 404 3ms -
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 17ms -
+  <-- GET /home.html
+  --> GET /home.html 200 18ms 883b
+  <-- GET /js/chunk-vendors.430c8d81.js
+  <-- GET /js/home.ccfc5854.js
+  --> GET /js/home.ccfc5854.js 200 32ms 3.29kb
+  --> GET /js/chunk-vendors.430c8d81.js 200 45ms 115.44kb
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 15ms 635b
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 12ms 635b
+  <-- GET /home.html
+  --> GET /home.html 200 14ms 883b
+  <-- GET /js/chunk-vendors.430c8d81.js
+  <-- GET /js/home.ccfc5854.js
+  --> GET /js/home.ccfc5854.js 200 10ms 3.29kb
+  --> GET /js/chunk-vendors.430c8d81.js 200 13ms 115.44kb
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 16ms 635b
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 10ms 635b
+  <-- GET /home.html
+  --> GET /home.html 200 24ms 883b
+  <-- GET /js/chunk-vendors.430c8d81.js
+  <-- GET /js/home.ccfc5854.js
+  --> GET /js/chunk-vendors.430c8d81.js 200 12ms 115.44kb
+  --> GET /js/home.ccfc5854.js 200 14ms 3.29kb
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 3ms 635b
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 3ms 635b
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 17ms -
+  <-- GET /
+GET / - 0ms
+hello
+  --> GET / 404 4ms -
+  <-- GET /
+hello
+  --> GET / 200 23ms 883b
+  <-- GET /js/chunk-vendors.430c8d81.js
+  --> GET /js/chunk-vendors.430c8d81.js 200 16ms 115.44kb
+  <-- GET /js/home.ccfc5854.js
+  --> GET /js/home.ccfc5854.js 200 9ms 3.29kb
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 3ms 635b
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 9ms 635b
+  <-- GET /
+  --> GET / 200 60ms 883b
+  <-- GET /js/chunk-vendors.430c8d81.js
+  --> GET /js/chunk-vendors.430c8d81.js 200 27ms 115.44kb
+  <-- GET /js/home.ccfc5854.js
+  --> GET /js/home.ccfc5854.js 200 19ms 3.29kb
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 37ms 635b
+  <-- GET /js/chunk-2d9369ba.79b91028.js
+  --> GET /js/chunk-2d9369ba.79b91028.js 200 4ms 635b
+  <-- GET /
+GET ./home.html - 0ms
+  --> GET / 404 108ms -
+  <-- GET /favicon.ico
+GET /favicon.ico - 1ms
+  --> GET /favicon.ico 404 6ms -
+  <-- GET /
+  --> GET / 200 33ms 883b
+  <-- GET /js/chunk-vendors.fc6452d2.js
+  <-- GET /js/home.56e20fe3.js
+  --> GET /js/chunk-vendors.fc6452d2.js 200 12ms 115.93kb
+  --> GET /js/home.56e20fe3.js 200 10ms 3.29kb
+  <-- GET /js/chunk-b2440f40.75ee53bb.js
+  --> GET /js/chunk-b2440f40.75ee53bb.js 200 10ms 633b
+  <-- GET /community
+  --> GET /community 200 5ms 893b
+  <-- GET /js/community.d95d8117.js
+  <-- GET /js/chunk-vendors.fc6452d2.js
+  --> GET /js/community.d95d8117.js 200 6ms 3.33kb
+  --> GET /js/chunk-vendors.fc6452d2.js 200 7ms 115.93kb
+  <-- GET /js/chunk-b2440f40.75ee53bb.js
+  --> GET /js/chunk-b2440f40.75ee53bb.js 200 6ms 633b
+  <-- GET /
+GET ./index.html - 0ms
+  --> GET / 404 16ms -
+  <-- GET /favicon.ico
+GET /favicon.ico - 0ms
+  --> GET /favicon.ico 404 6ms -
+  <-- GET /
+GET ./index.html - 0ms
+  --> GET / 404 4ms -
+  <-- GET /
+hello
+GET /index.html - 0ms
+  --> GET / 404 19ms -
+  <-- GET /
+hello
+GET /index.html - 0ms
+  --> GET / 404 20ms -
+  <-- GET /
+hello
+GET /index.html - 0ms
+  --> GET / 404 3ms -
+  <-- GET /
+hello
+  --> GET / 200 23ms 170b
