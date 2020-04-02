@@ -7,6 +7,9 @@ module.exports = (app) => {
 
     router.post("/getFile",homeController.getFile);
 
+    router.post('/login',homeController.login);
+    router.post('/verifyToken',homeController.verifyToken);
+
 
     app.use(router.routes())
         .use(router.allowedMethods());

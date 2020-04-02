@@ -7,7 +7,21 @@ const bodyparser = require('koa-bodyparser');
 const logger = require('koa-logger');
 const cors = require('koa-cors');
 const router = require('./middlewares/router');
+const jwt = require("jsonwebtoken");
+const TOKENSECRET = require("./utils/config/tokensecret");
 
+/*---登录状态检测中间件---*/
+app.use( async (ctx, next) =>{
+  if(ctx.url.match(/^\/community/) || ctx.url.match(/^\/personal/)){
+    let token = ctx.request.header.accesstoken || "";
+    const page_user = require("./utils/pages/user");
+    let result = await page_user.verifyUserToken(token);
+    console.log("result=================================>funck",result);
+    ctx.state.logged = result;
+
+  }
+  await next();
+});
 
 // error handler
 // onerror(app);
@@ -19,12 +33,14 @@ app.use(bodyparser({
 app.use(json());
 app.use(logger());
 
-// app.use( async (ctx, next) =>{
-//   ctx.set("Access-Control-Allow-Origin","http://localhost:8080");
-  // ctx.set("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  // ctx.set("Access-Control-Allow-Credentials", true);
-  // await next();
-// });
+app.use( async (ctx, next) =>{
+  ctx.set("Access-Control-Allow-Origin","http://localhost:8080");
+
+  ctx.set("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, accesstoken");
+
+  ctx.set("Access-Control-Allow-Credentials", true);
+  await next();
+});
 
 // app.use(cors({
 //   origin : function (ctx) {
