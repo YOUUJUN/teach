@@ -67,10 +67,6 @@ class User {
                 let token = this.createUserToken(obj);
                 msg.token = token;
 
-                let info = await this.getUserInfo(obj);
-
-                msg.userData  = info;
-
             }else{
                 msg = {
                     info : "用户名或密码错误！",
